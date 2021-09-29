@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thomas CHARDONNENS (@ThomasCdnns)
 - 👀 I’m interested in Machine Learning (mainly NLP for the moment).
-- 🌱 I’m currently learning how to use Django and Swift !
-- 💞️ I’m looking to collaborate on a secret project.
+- 🌱 I’m currently learning how to use Django and JavaScript!
 - 📫 How to reach me --> On twitter : @ChardonnensT
 
 <!---
