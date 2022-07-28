@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thomas CHARDONNENS (@ThomasCdnns)
-- 👀 I’m interested in Machine Learning (mainly NLP for the moment).
-- 🧰 I’m currently learning Django and React Native (and a lot of other stuff)!
+- 🧰 I’m currently learning Angular and NestJS (and a lot of other stuff)!
 - 📫 How to reach me --> On twitter : @ChardonnensT
 
 <!---
