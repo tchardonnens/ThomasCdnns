@@ -1,5 +1,7 @@
 # 💫 About Me:
 CS student in Paris @isep<br>Interested in web dev, blockchain and nlp ✌️
+Studying @UCBerkeley starting Fall 2023
+Open for an internship starting January 2024
 
 
 ## 🌐 Socials:
