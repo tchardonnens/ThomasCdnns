@@ -1,5 +1,5 @@
 # ✌️ About Me:
-CS student in Paris @isep<br>Interested in using web dev, NLP, ML, graph network to bring to life a higer information quality Internet<br/>
+CS student in Paris @isep<br>Interested in using web dev, NLP, ML, graph network to bring to life a higher information quality Internet<br/>
 Studying @UCBerkeley starting Fall 2023, CALIFORNIA BABY!!!<br/>
 Open for an internship starting January 2024
 
